@@ -1,5 +1,7 @@
 # Text Summarization Using Advanced Neural Nets
 
+## For more information please check the article
+
 ## Project Overview
 
 This project delves into the application of advanced neural network architectures for the tasks of language modeling and text summarization within Natural Language Processing (NLP). It encompasses two main segments: language modeling using Bidirectional Long Short-Term Memory (BiLSTM) networks and text summarization with the PEGASUS model. By employing these sophisticated models, the project aims to enhance the accuracy and coherence of generated text summaries.
